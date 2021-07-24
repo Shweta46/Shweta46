@@ -1,6 +1,6 @@
 ### Hi! I am Shweta. 
 
-<h3>I'm a Student and a Developer.</h3>
+### I'm a Student and learning enthusiast.
 
 - 🌱 I’m currently learning Embedded C programming, Python and JavaScript.
 - 👯 I’m looking forward to learning IoT.
@@ -8,11 +8,9 @@
 - ⚡ Fun fact: I have completed engineering in Electronics and Communication engineering from NIT Uttarakhand.
 - 💼 I am currently pursuing M.Tech with specialisation in Sensors and IoT from IIT Jodhpur.
 
+### Languages and Technologies
+<p align="left">C, Verilog HDL, HTML5, CSS and GIT</p>
 
-
-<h3 align="left">Languages and Technologies</h3>
-<p align="left">C, Verilog HDL, HTML5, CSS, Git</p>
-
-<h3>Connect with me:</h3>
+### Connect with me:
   <p>LinkedIn: https://www.linkedin.com/in/shweta-677a04172/</p>
   <p>Email: **aryashweta.users@gmail.com**</p>
