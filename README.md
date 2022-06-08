@@ -9,7 +9,7 @@
 - 💼 I am currently pursuing M.Tech with specialisation in Sensors and IoT from IIT Jodhpur.
 
 ### Languages and Technologies
-<p align="left">C, Verilog HDL, HTML5, CSS and GIT</p>
+<p align="left">C, Python, Verilog HDL, HTML5, CSS and GIT</p>
 
 ### Connect with me:
   <p>LinkedIn: https://www.linkedin.com/in/shweta-677a04172/</p>
