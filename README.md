@@ -2,11 +2,10 @@
 
 ### I'm a Student and learning enthusiast.
 
-- 🌱 I’m currently learning C programming, Python and JavaScript.
-- 👯 I’m looking forward to learning IoT.
-- 🥅 2022 Goals: Learn a C programming properly.
+- 🌱 I’m currently learning C programming, Django, and Application development.
+- 🥅 2023 Goals: Contribute more to open source.
 - ⚡ Fun fact: I have completed engineering in Electronics and Communication engineering from NIT Uttarakhand.
-- 💼 I am currently pursuing M.Tech with specialisation in Sensors and IoT from IIT Jodhpur.
+- 💼 I completed M.Tech with specialisation in Sensors and IoT from IIT Jodhpur in 2023.
 
 ### Languages and Technologies
 <p align="left">C, Python, Verilog HDL, HTML5, CSS and GIT</p>
